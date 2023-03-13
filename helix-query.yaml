@@ -2,8 +2,8 @@ version: 1
 indices:
   channels:
     include:
-      - '/screens/caesars/restaurants/menu/**'
-    target: '/screens/caesars/restaurants/menu/channels'
+      - '/screens/caesars/restaurants/menus/**'
+    target: '/screens/caesars/restaurants/menus/channels'
     properties:
       title:
         select: head > meta[property="og:title"]
