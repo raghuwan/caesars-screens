@@ -9,11 +9,11 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1678795108417,
+  "timestamp": 1678795109601,
 "entries": [
 {
-"path": "/screens/caesars/restaurants/menus/cafe",
-"timestamp": 1678787955000
+"path": "/screens/caesars/restaurants/menus/cafe-v1",
+"timestamp": 1677664687000
 },
 {
 "path": "/scripts/jsonpath.min.js",
@@ -42,22 +42,6 @@
 {
 "path": "/styles/styles.css",
 "timestamp": 1677663508000
-},
-{
-"path": "/screens/caesars/restaurants/menus/pos-data.json",
-"timestamp": 1678794992000
-},
-{
-"path": "/scripts/delayed.js",
-"timestamp": 1677663508000
-},
-{
-"path": "/blocks/columns/columns.css",
-"timestamp": 1677663507000
-},
-{
-"path": "/blocks/columns/columns.js",
-"timestamp": 1677663507000
 }
 ]
 }
