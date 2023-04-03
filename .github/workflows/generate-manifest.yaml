@@ -1,4 +1,4 @@
-name: Generate manifest for franklin channels
+name: Generate Screens offline resources for franklin channels
 
 on:
   repository_dispatch:
@@ -22,7 +22,7 @@ jobs:
         with:
           node-version: '14'
       - run: npm install
-      - name: Generate Manifests
+      - name: Generate Screens Offline Resources
         run: npm run generate-offlineresources helixManifest="/screens/caesars/restaurants/menus/manifests" helixChannelsList="/screens/caesars/restaurants/menus/channels"
       - name: Commit files # transfer the generated manifest files back into the repository
         run: |
