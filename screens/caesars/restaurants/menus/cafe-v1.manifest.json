@@ -9,39 +9,39 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1678795603135,
-"entries": [
-{
-"path": "/screens/caesars/restaurants/menus/cafe-v1",
-"timestamp": 1677664687000
-},
-{
-"path": "/scripts/jsonpath.min.js",
-"timestamp": 1677663508000
-},
-{
-"path": "/scripts/menu-builder.js",
-"timestamp": 1677663508000
-},
-{
-"path": "/scripts/menu-content-parser.js",
-"timestamp": 1677666191000
-},
-{
-"path": "/scripts/lib-franklin.js",
-"timestamp": 1677663508000
-},
-{
-"path": "/scripts/scripts.js",
-"timestamp": 1677663508000
-},
-{
-"path": "/styles/lazy-styles.css",
-"timestamp": 1677663508000
-},
-{
-"path": "/styles/styles.css",
-"timestamp": 1677663508000
-}
-]
+  "timestamp": 1680517066791,
+  "entries": [
+    {
+      "path": "/screens/caesars/restaurants/menus/cafe-v1",
+      "timestamp": 1677664687000
+    },
+    {
+      "path": "/scripts/jsonpath.min.js",
+      "timestamp": 1677663508000
+    },
+    {
+      "path": "/scripts/menu-builder.js",
+      "timestamp": 1677663508000
+    },
+    {
+      "path": "/scripts/menu-content-parser.js",
+      "timestamp": 1677666191000
+    },
+    {
+      "path": "/scripts/lib-franklin.js",
+      "timestamp": 1677663508000
+    },
+    {
+      "path": "/scripts/scripts.js",
+      "timestamp": 1677663508000
+    },
+    {
+      "path": "/styles/lazy-styles.css",
+      "timestamp": 1677663508000
+    },
+    {
+      "path": "/styles/styles.css",
+      "timestamp": 1677663508000
+    }
+  ]
 }
