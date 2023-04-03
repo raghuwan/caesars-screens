@@ -29,8 +29,8 @@ jobs:
           git config --local user.name  ${{ github.actor }}
           git config --local user.email "<>"
           git add .
-          git commit -m "Generating manifests"
-      - name: Push changes  # push the generated manifest files to your repo
+          git commit -m "Generating Screens offline resources"
+      - name: Push changes  # push the generated Screens offline resources to your repo
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
