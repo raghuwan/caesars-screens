@@ -35,5 +35,8 @@
       "title": "Cafe Menu",
       "liveUrl": "https://main--caesars-screens--absarasw.hlx.live/screens/caesars/restaurants/menus/mynew-menu"
     }
-  ]
+  ],
+  "metadata": {
+    "providerType": "franklin"
+  }
 }
