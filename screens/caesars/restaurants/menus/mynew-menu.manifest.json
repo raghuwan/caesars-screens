@@ -9,7 +9,7 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1680680974825,
+  "timestamp": 1680681410578,
   "entries": [
     {
       "path": "/screens/caesars/restaurants/menus/mynew-menu",
@@ -25,7 +25,7 @@
     },
     {
       "path": "/scripts/menu-content-parser.js",
-      "timestamp": 1677666191000
+      "timestamp": 1680681165000
     },
     {
       "path": "/scripts/lib-franklin.js",
