@@ -1,6 +1,12 @@
 {
   "channels": [
     {
+      "manifestPath": "/screens/caesars/restaurants/menus/cafe123.manifest.json",
+      "externalId": "/screens/caesars/restaurants/menus/cafe123",
+      "title": "Cafe Menu Updated New 123",
+      "liveUrl": "https://main--caesars-screens--absarasw.hlx.live/screens/caesars/restaurants/menus/cafe123"
+    },
+    {
       "manifestPath": "/screens/caesars/restaurants/menus/cafe.manifest.json",
       "externalId": "/screens/caesars/restaurants/menus/cafe",
       "title": "Cafe Menu Updated New 2",
