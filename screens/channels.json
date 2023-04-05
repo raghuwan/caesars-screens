@@ -2,9 +2,8 @@
   "channels": [
     {
       "manifestPath": "/screens/caesars/restaurants/menus/cafe.manifest.json",
-      "lastModified": "2023-04-05T07:52:45.000Z",
       "externalId": "/screens/caesars/restaurants/menus/cafe",
-      "title": "Cafe Menu Updated New",
+      "title": "Cafe Menu Updated New 2",
       "liveUrl": "https://main--caesars-screens--absarasw.hlx.live/screens/caesars/restaurants/menus/cafe"
     },
     {
