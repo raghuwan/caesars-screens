@@ -9,11 +9,11 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1680611029972,
+  "timestamp": 1680680974280,
   "entries": [
     {
       "path": "/screens/caesars/restaurants/menus/cafe",
-      "timestamp": 1678795429000
+      "timestamp": 1680680814000
     },
     {
       "path": "/scripts/jsonpath.min.js",
